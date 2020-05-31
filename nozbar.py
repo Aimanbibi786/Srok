@@ -1,6 +1,6 @@
 #!/usr/bin/python2
 #coding=utf-8
-#The Credit For This Code Goes To RanaAahil
+#The Credit For This Code Goes To Aimankhan
 #If You Wanna Take Credits For This Code, Please Look Yourself Again...
 #Reserved2020
 
@@ -87,7 +87,7 @@ print  """
  \033[1;96m ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
   \033[1;96m ─────────────•◈•──────────  
    \033[1;92m███████▒▒WELCOME TO AIMAN CREATIONS▒▒████████
-\033[1;95m♡╭──────────•◈•──────────╮♡\033[1;96msaibkhan\033[1;95m♡╭──────────•◈•──────────╮♡
+\033[1;95m♡╭──────────•◈•──────────╮♡\033[1;96mkhan\033[1;95m♡╭──────────•◈•──────────╮♡
 \033[1;94mAuthor\033[1;91m: \033[1;91mAiman khan
 \033[1;94mSaqibkhan\033[1;91m: \033[1;91▒▓██████████████]99.9
 \033[1;94mFacebook\033[1;91m: \033[1;91mAiman khan
